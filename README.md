@@ -6,21 +6,38 @@
 <img width="1878" height="894" alt="image" src="https://github.com/user-attachments/assets/f6359636-b606-4820-ba36-626e1a3cd590" />
 
 # DSA: Cultivating Knowledge, Fostering Collaboration 👩‍💻
-📌Our aim is to build a website that comprehensively covers algorithms in C++, Java, Python, and other programming languages, along with acknowledging the contributors to this repository.
+📌Our aim is to build a comprehensive repository that covers advanced algorithms and data structures in C++, Java, Python, C#, C, JavaScript and other programming languages, along with acknowledging the contributors to this repository.
 
 ## This Project Is Perfect For Your First Pull Request
 
-🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
+🗣 **Hacktoberfest 2025 encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
 
 📢 **Register [here](https://hacktoberfest.com/auth/) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st 🔥.**
 
+## 🆕 Recent Contributions (October 2025)
+
+### New Advanced Algorithms Added:
+- **Python**: Heap Sort Algorithm with comprehensive examples and time complexity analysis
+- **Java**: AVL Tree (Self-Balancing BST) with insertion, deletion, and rotation operations
+- **C++**: Segment Tree for Range Queries (Sum and Minimum) with efficient query and update operations
+- **C**: Dijkstra's Shortest Path Algorithm with both matrix and priority queue implementations
+- **JavaScript**: Complete DSA Library including BST, Graph Algorithms, Dynamic Programming, and Sorting
+- **C#**: Trie Data Structure with Auto-Complete and Spell-Checker applications
+
+### Features of New Implementations:
+- ✨ Comprehensive documentation and comments
+- 🧪 Multiple test cases and examples
+- ⏱️ Time and space complexity analysis
+- 🎯 Real-world applications and use cases
+- 🔧 Clean, readable, and well-structured code
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2024-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/hacktoberfest-2025-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/yesiamrajeev" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-<a href="https://github.com/yesiamrajeev/Hacktoberfest2024/pulls"><img src="https://img.shields.io/github/issues-pr/yesiamrajeev/Hacktoberfest2024" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/yesiamrajeev/Hacktoberfest2024/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/yesiamrajeev/Hacktoberfest2024?color=2b9348"></a>
+ <a href="https://github.com/kartikeyg0104" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+<a href="https://github.com/kartikeyg0104/Hacktoberfest2025/pulls"><img src="https://img.shields.io/github/issues-pr/kartikeyg0104/Hacktoberfest2025" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/kartikeyg0104/Hacktoberfest2025/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kartikeyg0104/Hacktoberfest2025?color=2b9348"></a>
 
 </div>
 
@@ -52,6 +69,39 @@ Create/Upload your code in the folder following the convention `Add Code Here`
 ```
 
 You can follow any pathway a `code` or `profile information`
+
+## 🎯 Algorithm Categories Covered
+
+### 📊 Data Structures
+- **Trees**: Binary Search Trees, AVL Trees, Segment Trees, Tries
+- **Graphs**: Adjacency Lists, BFS, DFS, Dijkstra's Algorithm
+- **Heaps**: Min/Max Heaps, Priority Queues, Heap Sort
+- **Hash Tables**: Hash Maps, Hash Sets, Collision Resolution
+
+### 🔄 Sorting Algorithms
+- **O(n²)**: Bubble Sort, Selection Sort, Insertion Sort
+- **O(n log n)**: Merge Sort, Heap Sort, Quick Sort
+- **Linear Time**: Counting Sort, Radix Sort, Bucket Sort
+
+### 🎯 Search Algorithms
+- **Linear Search**: Sequential searching techniques
+- **Binary Search**: Divide and conquer approach
+- **Graph Search**: BFS, DFS, A* Search
+
+### 💡 Dynamic Programming
+- **Classic Problems**: Fibonacci, Knapsack, Longest Common Subsequence
+- **Optimization**: Coin Change, Edit Distance, Matrix Chain Multiplication
+- **Advanced**: Traveling Salesman, Job Scheduling
+
+### 🌐 Graph Algorithms
+- **Shortest Path**: Dijkstra's, Floyd-Warshall, Bellman-Ford
+- **Minimum Spanning Tree**: Kruskal's, Prim's Algorithm
+- **Topological Sorting**: DFS-based, Kahn's Algorithm
+
+### 🧮 Mathematical Algorithms
+- **Number Theory**: Prime Numbers, GCD, LCM, Modular Arithmetic
+- **Combinatorics**: Permutations, Combinations, Catalan Numbers
+- **Geometry**: Convex Hull, Line Intersection, Closest Pair
 
 ## 2. Wait for Pull Request to merge
 
